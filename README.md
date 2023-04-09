@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`$ npm install react-native-photo-picker --save`
+`$ npm install @witpranav/react-native-photo-picker`
 
 ## Note
 
