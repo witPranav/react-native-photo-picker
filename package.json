@@ -1,0 +1,41 @@
+{
+  "name": "react-native-photo-picker",
+  "title": "React Native Photo Picker",
+  "version": "1.0.0",
+  "description": "A module for android based on the new Photo Picker API",
+  "main": "index.ts",
+  "types": "index.ts",
+  "files": [
+    "README.md",
+    "android",
+    "index.ts",
+    "src/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witPranav/react-native-photo-picker.git",
+    "baseUrl": "https://github.com/witPranav/react-native-photo-picker"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Pranav Chatly",
+    "email": "pchatly786@gmail.com"
+  },
+  "license": "Unlicensed",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
+    "typescript": "^5.0.4"
+  }
+}
