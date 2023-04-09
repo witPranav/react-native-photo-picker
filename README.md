@@ -24,7 +24,7 @@ configurations.implementation {
 }
 ```
 
--- If backported photo picker support is needed as well, insert the following entry to the <application> tag in your apps manifest file
+-- If backported photo picker support is needed as well, insert the following entry inside the application tag in your apps manifest file
 
 ```xml
 <service android:name="com.google.android.gms.metadata.ModuleDependencies"
