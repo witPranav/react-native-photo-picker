@@ -11,11 +11,12 @@
 ## How it works
 
 -- This module uses the new [PhotoPicker API](https://developer.android.com/training/data-storage/shared/photopicker) introduced in Android 11.
--- Since this API is also backported, this module works also in previous versions of Android.
+
+-- Since this API is backported, the module also works with previous versions of Android.
 
 ## Usage
 
-- Goto app level build.gradle in android/app/build.gradle and add the following block in the end of the file.
+- Goto app level build.gradle in android/app/build.gradle and add the following block at the end of the file.
 
 ```groovy
 configurations.implementation {

@@ -1,7 +1,7 @@
 {
   "name": "@witpranav/react-native-photo-picker",
   "title": "React Native Photo Picker",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A module for android based on the new Photo Picker API",
   "main": "index.ts",
   "types": "index.ts",
