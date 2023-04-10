@@ -1,7 +1,7 @@
 {
   "name": "@witpranav/react-native-photo-picker",
   "title": "React Native Photo Picker",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A module for android based on the new Photo Picker API",
   "main": "index.ts",
   "types": "index.ts",
@@ -26,7 +26,7 @@
     "name": "Pranav Chatly",
     "email": "pchatly786@gmail.com"
   },
-  "license": "Unlicensed",
+  "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
