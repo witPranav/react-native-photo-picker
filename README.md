@@ -40,12 +40,12 @@ configurations.implementation {
 -- Javascript
 
 ```javascript
-import {launchPhotoPicker, StatusConstants} from 'react-native-photo-picker';
+import {launchPhotoPicker, StatusConstants} from '@witpranav/react-native-photo-picker';
 
 launchPhotoPicker(
     {
     mediaType: 'ImageAndVideo', //optional prop; possible values can be ImageAndVideo, ImageOnly, VideoOnly; defaults to ImageAndVideo
-    multipleMedia: true //optional prop; defaults to false
+    multipleMedia: true, //optional prop; defaults to false
     mimeType: "image/gif" //optional prop;
     },
     (res: any) => {
@@ -67,4 +67,6 @@ launchPhotoPicker(
 ## TODO
 
 - Add Persist Media File [Permission](https://developer.android.com/training/data-storage/shared/photopicker#persist-media-file-access).
+- Convert to Fabric
+- Add count limit to files
 - ???
