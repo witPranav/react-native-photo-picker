@@ -1,7 +1,7 @@
 {
   "name": "@witpranav/react-native-photo-picker",
   "title": "React Native Photo Picker",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "A module for android based on the new Photo Picker API",
   "main": "index.ts",
   "types": "index.ts",
@@ -20,7 +20,13 @@
     "baseUrl": "https://github.com/witPranav/react-native-photo-picker"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react-native-photo-picker",
+    "android",
+    "react",
+    "native",
+    "photo",
+    "picker"
   ],
   "author": {
     "name": "Pranav Chatly",
